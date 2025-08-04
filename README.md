@@ -33,5 +33,5 @@ An IoT-based system designed to automate fertilizer dispensing for crops based o
 
 ---
 
-## 🔗 Author
+## 🔗 Authors
 Developed by Devaraj, Ganesh, Ramya, Sadvika
